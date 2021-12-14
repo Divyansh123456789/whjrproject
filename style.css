@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(13, 197, 243);
+    font-family:cursive;
+}
+button{
+    color:Black;
+}
+button:hover{
+    background-image: linear-gradient(to top right,Red,Yellow,Pink,Orange);
+}
+.heading{
+    width: 800px;
+    font-size: 30px;
+}
+.heading:hover{
+    background-image: linear-gradient(to top left,Pink,Orange,Cyan,Red);
+}
